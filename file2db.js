@@ -13,7 +13,7 @@ const file2object = filename => {
     const {
       data_err,
       data,
-    } = r || {}
+    } = r
     return new Promise(resolve => stat(
       filename || "",
       { bigint: true },
