@@ -20,9 +20,9 @@
   "homepage": "https://github.com/takanoriyanagitani/file2db-node#readme",
   "devDependencies": {
     "mocha": "10.2.0",
-    "nyc": "14.1.1"
+    "nyc": "15.1.0"
   },
   "dependencies": {
-    "pg": "7.14.0"
+    "pg": "8.11.1"
   }
 }
